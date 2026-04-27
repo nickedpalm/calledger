@@ -1,0 +1,94 @@
+[
+  {
+    "slug": "indiana-standards-laboratory-isl-indianapolis",
+    "name": "Indiana Standards Laboratory (ISL)",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "phone": "1317787657",
+    "website": "https://www.indianastandards.com",
+    "email": "service@indianastandards.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.9,
+    "review_count": 22,
+    "description": "ISO/IEC 17025-accredited calibration laboratory open since 1959, offering in-house and on-site calibration services worldwide with a focus on diverse instrumentation.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:20",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "60 years of reliable calibration experience",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Expert on-site services in Indiana",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Small team with diverse expertise",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "ISO/IEC 17025-accredited calibration laboratory open since 1959, offering in-house and on-site calibration services worldwide with a focus on diverse instrumentation."
+    }
+  },
+  {
+    "slug": "magnet-physics-inc-indianapolis",
+    "name": "Magnet-Physics Inc.",
+    "city": "Indianapolis",
+    "state": "IN",
+    "address": "",
+    "lat": 39.7683331,
+    "lng": -86.1583502,
+    "phone": "1071121995",
+    "website": "https://www.magnet-physik.de/en/calibration-laboratory/calibration-laboratory-us/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 4.6,
+    "review_count": 15,
+    "description": "Accredited calibration laboratory by Perry Johnson Laboratory Accreditation Services, specializing in measuring equipment calibration for quality tests, serving North America with ISO/IEC 17025 conforming certificates.",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:20",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.9,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Accredited lab with precise magnetic calibrations",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Optimal price-performance ratio",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable ISO 17025 certificates",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Accredited calibration laboratory by Perry Johnson Laboratory Accreditation Services, specializing in measuring equipment calibration for quality tests, serving North America with ISO/IEC 17025 confor"
+    }
+  }
+]

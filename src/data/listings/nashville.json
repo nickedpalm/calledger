@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "electrochemical-systems-inc-nashville",
+    "name": "Electrochemical Systems Inc.",
+    "city": "Nashville",
+    "state": "TN",
+    "address": "",
+    "lat": 36.1622767,
+    "lng": -86.7742984,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Electrochemical systems and calibration services in Knoxville, TN.",
+    "certifications": [],
+    "services": [
+      "electrochemical calibration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:54:14",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "name": "Calibration Laboratories",
+  "brandName": "Calledger",
+  "slug": "calledger",
+  "domain": "calledger.com",
+  "siteUrl": "https://calledger.com",
+  "tagline": "Accredited calibration labs, independently rated.",
+  "description": "The most comprehensive directory of A2LA- and NVLAP-accredited calibration laboratories, instrument calibration services, and metrology specialists in the United States.",
+  "jobValue": "$500-5,000 per calibration engagement",
+  "industry": "industrial",
+  "primaryKeyword": "calibration laboratory",
+  "secondaryKeywords": [
+    "instrument calibration service",
+    "ISO 17025 calibration lab",
+    "NIST-traceable calibration",
+    "dimensional metrology service",
+    "electrical calibration laboratory",
+    "A2LA accredited calibration"
+  ],
+  "certifications": [
+    "ISO/IEC 17025 (International Laboratory Accreditation Standard)",
+    "A2LA Accredited Calibration Laboratory",
+    "NVLAP Accredited Laboratory (NIST National Voluntary Laboratory Accreditation Program)",
+    "PJLA-Accredited Calibration Laboratory (Perry Johnson Laboratory Accreditation)",
+    "ASQ CQE (Certified Quality Engineer)",
+    "NCSL International Certified Member Laboratory"
+  ],
+  "extraFields": [],
+  "cityPagePromptContext": "Calibration laboratories provide accredited measurement and testing services to manufacturers, aerospace firms, medical device companies, and other industries requiring traceable accuracy. ISO/IEC 17025-accredited labs perform dimensional, electrical, mechanical, thermal, and pressure calibrations with NIST-traceable reference standards. Quality teams hire them ahead of ISO 9001 and AS9100 audits, after equipment repairs or new instrument purchases, or when measurement uncertainty must be formally documented. Accreditation bodies such as A2LA and NVLAP publish laboratory scope certificates specifying exactly which parameters and ranges each lab is authorized to calibrate.\n",
+  "contactEmail": "contact@calledger.com",
+  "buyerPersona": "manufacturers and quality assurance teams",
+  "servicePhrase": "calibration services",
+  "primaryCredential": "ISO/IEC 17025",
+  "buyerSearchContext": "when preparing for ISO 9001 or AS9100 audits, after instrument repair or purchase, or when measurement traceability must be formally documented for regulatory compliance",
+  "editorialAuthor": {
+    "name": "Nick Palmer",
+    "title": "Founder & Lead Researcher",
+    "bio": "Nick built this directory to help quality teams find accredited calibration labs without wading through unaccredited shops that can\u2019t support an ISO audit \u2014 a gap he discovered when sourcing calibration vendors for a manufacturing client whose instrument traceability chain failed a third-party audit.",
+    "linkedin": "https://linkedin.com/in/nickedpalmer"
+  },
+  "stripeSponsoredLink": "",
+  "stripeCityProLink": "",
+  "stripeFeaturedMonthlyLink": "https://buy.stripe.com/cNi7sK36W35m3L67Ila3u3M",
+  "stripeFeaturedAnnualLink": "https://buy.stripe.com/9B69ASePEgWc81m1jXa3u3N",
+  "stripeCityProMonthlyLink": "https://buy.stripe.com/eVq9AS0YOcFW0yU0fTa3u3O",
+  "stripeCityProAnnualLink": "https://buy.stripe.com/3cIeVc36W21i95q2o1a3u3P",
+  "stripeFeaturedProductId": "prod_UFN29tyCOE6s6N",
+  "stripeCityProProductId": "prod_UFN2k4UXUYBSVd",
+  "stripeFeaturedMonthlyPriceId": "price_1TQZTDCIgRyRDQ2PRs6YYCDo",
+  "stripeFeaturedAnnualPriceId": "price_1TQZTECIgRyRDQ2PD7jBQMdi",
+  "stripeCityProMonthlyPriceId": "price_1TQZTGCIgRyRDQ2PLHbKlzeP",
+  "stripeCityProAnnualPriceId": "price_1TQZTHCIgRyRDQ2PrCNU0JLW",
+  "pricing": {
+    "featuredMonthlyUsd": 49,
+    "featuredAnnualUsd": 441,
+    "cityProMonthlyUsd": 149,
+    "cityProAnnualUsd": 1341
+  },
+  "listmonkListId": "61",
+  "listmonkTplMagicLink": "56",
+  "listmonkTplLeadNotify": "57",
+  "listmonkTplGuideDelivery": "58",
+  "ga4MeasurementId": "G-F4ED38T1F3",
+  "turnstileSitekey": "",
+  "turnsiteSitekey": "",
+  "googleAnalyticsId": "G-F4ED38T1F3",
+  "foundedYear": 2026,
+  "listings": {
+    "schema": [
+      {
+        "key": "iso_17025_accredited",
+        "type": "boolean",
+        "label": "ISO/IEC 17025 Accredited",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for accreditation certificate numbers, A2LA or NVLAP scope certificate links, or explicit ISO/IEC 17025 statements on homepage, about page, or footer. A2LA certificate numbers follow the format \"XXXX.01\"."
+      },
+      {
+        "key": "years_experience",
+        "type": "number",
+        "label": "Years of Experience",
+        "display": "range",
+        "facet": false,
+        "unit": "years",
+        "scrape_hint": "Extract from 'About Us', team bios, or '20+ years serving [industry]' statements; calculate from founding year if business start date is provided."
+      },
+      {
+        "key": "calibration_scopes",
+        "type": "multi_enum",
+        "label": "Calibration Scopes",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Electrical",
+          "Dimensional",
+          "Mechanical",
+          "Thermal",
+          "Pressure & Vacuum",
+          "Physical/Chemical"
+        ],
+        "scrape_hint": "Scan services menu, scope of accreditation certificates, or laboratory capability pages; match keywords like 'electrical calibration', 'dimensional metrology', 'torque calibration', 'temperature calibration', or 'pressure gauge calibration'."
+      },
+      {
+        "key": "onsite_calibration",
+        "type": "boolean",
+        "label": "On-Site / Mobile Calibration",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Check for mentions of 'mobile calibration', 'on-site service', 'field calibration', or 'we come to you' on services or FAQ pages."
+      },
+      {
+        "key": "nist_traceable",
+        "type": "boolean",
+        "label": "NIST-Traceable Standards",
+        "display": "badge",
+        "facet": true,
+        "scrape_hint": "Look for statements like 'NIST-traceable', 'traceable to national standards', 'unbroken traceability chain', or references to NIST reference standards in lab description, certificates, or methodology pages."
+      },
+      {
+        "key": "turnaround_time",
+        "type": "enum",
+        "label": "Standard Turnaround Time",
+        "display": "text",
+        "facet": true,
+        "enum": [
+          "Same Day",
+          "1-3 Business Days",
+          "3-5 Business Days",
+          "1-2 Weeks"
+        ],
+        "scrape_hint": "Extract from service descriptions, FAQs, or 'Turnaround Time' sections; look for phrases like 'certificates issued same day' or 'standard 5-business-day turnaround'."
+      },
+      {
+        "key": "industries_served",
+        "type": "multi_enum",
+        "label": "Industries Served",
+        "display": "pill_list",
+        "facet": true,
+        "enum": [
+          "Manufacturing",
+          "Aerospace & Defense",
+          "Medical Device",
+          "Pharmaceutical",
+          "Automotive",
+          "Electronics"
+        ],
+        "scrape_hint": "Parse 'Industries Served', homepage copy, or case study pages; match sector keywords like 'AS9100', 'FDA-regulated', 'medical device manufacturing', 'automotive quality', or 'defense contractor'."
+      },
+      {
+        "key": "phone",
+        "type": "phone",
+        "label": "Phone Number",
+        "display": "text",
+        "facet": false,
+        "scrape_hint": "Extract from header, footer, contact page, or click-to-call buttons; normalize to standard format (e.g., (555) 123-4567)."
+      },
+      {
+        "key": "website",
+        "type": "url",
+        "label": "Website",
+        "display": "link",
+        "facet": false,
+        "scrape_hint": "Capture primary domain from browser address bar, homepage links, or business listings; ensure full URL with https:// protocol."
+      }
+    ]
+  }
+}

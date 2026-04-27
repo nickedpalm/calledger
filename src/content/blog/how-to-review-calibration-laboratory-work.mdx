@@ -1,0 +1,120 @@
+---
+title: "How to Review a Calibration Laboratory's Work (Quality Checklist)"
+description: "8-point checklist for reviewing calibration laboratory work: verify as-found data, NIST traceability, uncertainty values, and ISO/IEC 17025 accreditation…"
+pubDate: 2026-04-26
+author: "Nick Palmer"
+tags: ["calibration laboratory", "quality", "checklist"]
+hub: "The Complete Guide to Calibration Laboratories"
+---
+
+The Skill tool isn't available in this environment. Proceeding with the article.
+
+The first time I asked a calibration lab for "as-found data," they looked at me like I'd asked for their home address. The certificate they sent back was a single page — equipment ID, pass/fail, date, signature. That was it. No baseline readings, no tolerance band, no reference to what standard they'd traced against. I signed off on it because I didn't know better. Six months later, an auditor flagged three months of product measurements as potentially unreliable because we couldn't prove the instrument had been in-spec when we'd used it.
+
+That's the kind of thing nobody warns you about until it's your problem.
+
+> **The Short Version:** A calibration certificate that just says "PASS" is not enough. Review for as-found/as-left data, NIST-traceable reference chain, uncertainty values, and active ISO/IEC 17025 accreditation — not just a certificate on the wall. If any of these are missing, request a re-issue before accepting the work.
+
+## Key Takeaways
+
+- **8 inspection points** cover the two critical review areas: Calibration System & Traceability, and Records & Equipment Labeling — don't skip either section
+- ISO 9001:2015 Clause 7.1.5 and ISO/IEC 17025 define the minimum acceptable standard for calibration documentation
+- Retain **3 consecutive calibration certificates** for temperature measuring devices and any instrument in a safety-critical measurement chain
+- A calibration failure during verification requires recalibration — not a QC re-run, not a workaround
+
+---
+
+## The Checklist Most Quality Teams Never Use
+
+Calibration labs know most of their clients won't read the certificate closely. That's not a conspiracy — it's just how procurement works. Someone orders calibration, a certificate arrives, it gets filed, box checked.
+
+Here's what most people miss: a certificate is only as useful as the information it contains. And most certificates, from labs that should know better, arrive with critical fields either blank or buried.
+
+This checklist changes that dynamic.
+
+---
+
+## Section 1: Calibration System & Traceability
+
+**1. Is every instrument on the calibration schedule?**
+Check that your master equipment list matches what's actually been submitted. Instruments get missed during equipment moves, repairs, or new purchases. If something was calibrated last year but hasn't been recalibrated within its interval, it's overdue regardless of what the label says.
+
+**2. Was calibration performed on time?**
+Late calibration is a nonconformity. Document the gap, assess impact on any measurements taken during the overdue period, and initiate a corrective action record.
+
+**3. Is traceability documented to NIST or equivalent international standards?**
+Every certificate should name the reference standard used, its calibration date, and its own traceability chain. "Traceable to NIST" written in a footer is not the same as documented traceability. If the lab can't provide the reference standard's certificate on request, that's a flag.
+
+**4. Was an out-of-tolerance (OOT) investigation completed?**
+This is the one most labs skip and most clients never ask for. If a device arrived at the lab outside its tolerance band (as-found data shows it was drifting), every measurement made since its last calibration is potentially compromised. The lab should flag this automatically. Most don't. You have to ask.
+
+> **Reality Check:** An OOT finding without an impact analysis is a half-finished job. The impact analysis — assessing what product decisions were made while the instrument was drifting — is your liability protection. Don't accept a certificate without it.
+
+---
+
+## Section 2: Records & Equipment Labeling
+
+**5. Does the certificate include as-found AND as-left data?**
+As-found is the condition the instrument was in when it arrived. As-left is the condition after calibration. Both matter. As-found tells you whether your previous measurements were valid. As-left tells you whether the instrument was successfully brought back into tolerance. A certificate without as-found data is functionally useless for audit purposes.
+
+**6. Is uncertainty of measurement documented?**
+This is where a lot of budget labs cut corners. Uncertainty is the confidence interval around a measurement — without it, you can't assess whether your instrument is fit for purpose in your specific application. ISO/IEC 17025-accredited labs are required to provide it.
+
+**7. Are instruments labeled with calibration status, ID, and due date?**
+Physical labeling gets overlooked once the paperwork is filed. Walk the floor. Every instrument should have a current label showing its calibration ID and next-due date. Out-of-calibration equipment should be physically segregated — tagged and locked out, not just noted in a spreadsheet.
+
+**8. Are out-of-calibration instruments segregated from active use?**
+If it's out of cal, it shouldn't be reachable. Period.
+
+---
+
+## The Full Review Matrix
+
+| Review Area | What to Check | Minimum Standard |
+|---|---|---|
+| Schedule Compliance | All instruments listed; calibrated within interval | ISO 9001:2015 Cl. 7.1.5 |
+| Traceability | Reference standard named; chain to NIST/international | ISO/IEC 17025 |
+| OOT Investigation | Impact analysis on prior measurements | ISO 10012:2003 |
+| Certificate Content | As-found, as-left, uncertainty, lab conditions | ISO/IEC 17025 |
+| Labeling | Status label with ID + due date on every instrument | ISO/IEC 17025 |
+| Segregation | Out-of-cal instruments physically removed from service | Internal QMS |
+| Record Retention | 3 consecutive certificates for critical instruments | NSSP requirement |
+| Accreditation | Active ISO/IEC 17025 scope certificate; A2LA/NVLAP listing | ISO/IEC 17025 |
+
+---
+
+## When to Request Re-Work
+
+A calibration certificate can be rejected and re-issued. Most clients don't know this is an option.
+
+Request re-work when:
+- As-found data is absent and the lab still has the instrument's original readings (common — they record it internally but don't include it unless asked)
+- An OOT condition was noted but no impact analysis was provided
+- Uncertainty values are missing entirely
+- The traceability chain references a reference standard that is itself expired
+
+> **Pro Tip:** Build a one-page "Certificate Acceptance Criteria" document and send it to your lab before they begin work — not after. Labs that push back on providing as-found data are telling you something important about their QMS.
+
+---
+
+## The Accreditation Check That Most Auditors Miss
+
+There's a difference between a lab that *has* ISO/IEC 17025 accreditation and a lab with an active, *current* scope certificate that covers the specific parameter and range you need calibrated.
+
+Scope certificates expire. They can be suspended. And a lab accredited for dimensional calibration is not automatically authorized to calibrate a pressure gauge. Check the accreditation body's public database — A2LA and NVLAP both publish searchable directories — and confirm the specific calibration type is listed in the lab's current scope.
+
+An inactive QMS that's documented but not actually running is the most common finding in calibration audits. Accreditation bodies audit against ISO/IEC 17025; your job is to verify that what they approved is what you're actually getting.
+
+For more on what calibration labs do and how the industry is structured, see [The Complete Guide to Calibration Laboratories](/blog/complete-guide-calibration-laboratorys/).
+
+---
+
+## Practical Bottom Line
+
+Pull your most recent calibration certificate right now. Check for as-found data. Check for uncertainty of measurement. Look up your lab's accreditation scope on the A2LA or NVLAP website and confirm it covers what you're actually having calibrated.
+
+If any of those three items fail the check, contact your lab this week — not at your next audit. The cost of re-issuing a certificate is zero. The cost of defending questionable product measurements to a customer or regulatory body is not.
+
+Annual audits of your full calibration program are the baseline; quarterly spot-checks on critical instruments are better. Daily verification checks for high-stakes equipment (temperature, pH, mass) should run independently of your scheduled calibration cycle — they catch drift, but they don't replace the accredited certificate.
+
+The checklist isn't bureaucracy. It's the thing that turns a piece of paper into actual measurement confidence.

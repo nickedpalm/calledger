@@ -1,0 +1,116 @@
+[
+  {
+    "slug": "ccsi-inc-columbus",
+    "name": "CCSi, Inc.",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "Not provided in search results",
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "phone": "Not provided in search results",
+    "website": "Not provided in search results",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Leading provider of calibration and testing services founded in 1983, serving aerospace, automotive, electronics, medical devices, and other industries",
+    "certifications": [],
+    "services": [
+      "Calibration services",
+      "Testing services"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:53:25",
+    "sentiment": null
+  },
+  {
+    "slug": "micro-precision-calibration-columbus",
+    "name": "Micro Precision Calibration",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "Services Ohio from Indianapolis location: 3570 Commerce Drive, Columbus IN, 47201",
+    "lat": 39.9622601,
+    "lng": -83.0007065,
+    "phone": "+1-812-372-7969",
+    "website": "https://microprecision.com/service-areas/united-states/kentucky-calibration-labs/",
+    "email": "gv-contact@microprecision.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Instrument calibration services, repair services, equipment sales, and global calibration solutions serving Kentucky with over 50 years experience",
+    "certifications": [],
+    "services": [
+      "instrument calibration",
+      "repair services",
+      "equipment sales"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:56:09",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.95,
+      "keywords": [],
+      "highlights": [
+        {
+          "text": "Excellent calibration service and quick turnaround",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Highly accurate and professional team",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Reliable for industrial instruments",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "ISO 9001:2015 verified and ISO/IEC 17025 accredited lab providing high-quality instrument calibration services across Northern, Central, and Southern Indiana for over 50 years, including on-site optio"
+    }
+  },
+  {
+    "slug": "simco-electronics-columbus",
+    "name": "SIMCO Electronics",
+    "city": "Columbus",
+    "state": "OH",
+    "address": "Not provided in search results",
+    "lat": 39.9612,
+    "lng": -82.9988,
+    "phone": "Not provided in search results",
+    "website": "https://www.simco.com/locations/us_central/dayton_oh/",
+    "email": "info@simco.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "High-quality calibration, repair, and software services for test and measurement equipment with specialized support for automotive industry and military/defense contractors",
+    "certifications": [],
+    "services": [
+      "Calibration",
+      "Repair services",
+      "Software services",
+      "On-site calibration",
+      "Automotive calibration",
+      "Military/defense calibration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:53:25",
+    "sentiment": null
+  }
+]

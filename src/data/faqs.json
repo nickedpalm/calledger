@@ -1,0 +1,50 @@
+[
+  {
+    "question": "How much does calibration typically cost, and what affects the price?",
+    "answer": "Calibration costs vary widely based on instrument type, complexity, and whether you use an in-house team or an accredited external lab. Simple handheld instruments may cost $50\u2013$150 per calibration, while precision or multi-parameter equipment can run several hundred dollars. Turnaround time, on-site vs. lab service, and the lab's accreditation level also affect pricing. Get itemized quotes to avoid surprises that disrupt compliance budgets."
+  },
+  {
+    "question": "What is a typical calibration interval, and can it be extended?",
+    "answer": "Intervals are set based on manufacturer recommendations, instrument stability history, and frequency of use. Most manufacturers suggest annual calibration, but intervals can be shortened or extended with documented justification. Extensions require evidence of stable measurement performance and must be approved and labeled on the instrument. Overdue calibrations are a leading cause of major audit findings and can halt shipments."
+  },
+  {
+    "question": "What are the options for on-site vs. send-in calibration, and how does turnaround compare?",
+    "answer": "Send-in calibration typically offers lower cost and access to fully equipped lab environments, but adds shipping time and risk of transit-induced damage. On-site calibration avoids transport risk and keeps instruments in production longer, but may cost more and limit the lab's available reference standards. Turnaround for send-in labs is commonly 5\u201315 business days; on-site can often be scheduled within a week. Choose based on instrument sensitivity and production downtime tolerance."
+  },
+  {
+    "question": "Does a calibration certificate need to be traceable to NIST or international standards?",
+    "answer": "Yes. A valid calibration certificate must document an unbroken traceability chain back to national or international measurement standards such as NIST. The certificate should explicitly state the reference standards used and their own calibration status. Certificates lacking this chain are unacceptable under ISO 9001, AS9100, and most regulated-industry quality systems, and will generate nonconformities during audits."
+  },
+  {
+    "question": "Does a calibration lab need to be accredited, and what accreditations should I look for?",
+    "answer": "For most regulated industries, accreditation to ISO/IEC 17025 is the baseline requirement. Bodies like A2LA, NVLAP, and ILAC-recognized accreditors independently verify that a lab's procedures, equipment, and personnel meet defined competency standards. In-house calibration is permissible but requires validated procedures and documented traceability. Non-accredited providers are a common audit red flag under AS9100 and ISO 13485, and can call your entire QMS into question."
+  },
+  {
+    "question": "What should a calibration certificate include to pass an audit?",
+    "answer": "A compliant certificate should identify the instrument by make, model, and serial number; state the calibration date and due date; reference the traceability chain to national standards; list the measurement results and any as-found/as-left data; and be signed by a qualified technician. Vague certificates that omit measurement data or traceability references are red flags and will not satisfy auditors. Always review certificates on receipt before filing them."
+  },
+  {
+    "question": "How long should calibration records be retained?",
+    "answer": "Retention periods depend on your industry and customer contracts, but most quality standards require records to be kept for the life of the product plus an additional period\u2014commonly 7\u201310 years in aerospace and medical device sectors. Records must cover every calibration cycle without gaps to demonstrate continuous compliance. Short retention or missing historical data are findings auditors specifically look for when tracing product conformance."
+  },
+  {
+    "question": "What happens if a calibration finds an instrument is out of tolerance?",
+    "answer": "An out-of-tolerance result should trigger a formal nonconformance process: identify the time period the instrument was in use while out of tolerance, assess which measurements or products may have been affected, and determine appropriate disposition. This is called a 'measurement system impact assessment' and is required by ISO 9001 and AS9100. Skipping this step leaves traceability gaps and exposes manufacturers to liability for shipped nonconforming product."
+  },
+  {
+    "question": "Can transport or environmental conditions invalidate a calibration?",
+    "answer": "Yes. Shock, vibration, extreme temperature, humidity, and gravity changes during transport can all shift an instrument's measurement characteristics after calibration. Unless the instrument is rated immune to these conditions, calibration should be performed at or near the point of use, or the instrument should be re-verified after transport. Undocumented environmental exposure is a common reason calibration certificates are rejected during audits."
+  },
+  {
+    "question": "How should calibration status be indicated on instruments?",
+    "answer": "Instruments should carry a visible label or tag showing the calibration date, due date, and the lab or technician responsible. For instruments with extended intervals or restrictions, the label should note any usage limitations. Electronic asset management systems can supplement physical labels but do not replace them. Missing or expired labels are treated as presumptive nonconformities by auditors and can halt use of the instrument until status is resolved."
+  },
+  {
+    "question": "What information should be tracked for each instrument in a calibration database?",
+    "answer": "At minimum, track instrument description, manufacturer, model, serial number, location, calibration frequency, last and next due dates, the performing lab or technician, as-found/as-left results, and cumulative calibration costs. Repair history and any out-of-tolerance events should also be linked to the record. Incomplete asset databases consistently fail audits and make it difficult to demonstrate compliance or forecast annual calibration spend."
+  },
+  {
+    "question": "What are the warning signs of a low-quality calibration provider?",
+    "answer": "Key red flags include no ISO/IEC 17025 accreditation or an accreditation scope that doesn't cover your instrument type, certificates that omit measurement data or traceability references, inability to provide scope-of-accreditation documentation, and no defined process for handling out-of-tolerance findings. Providers who ignore environmental factors or offer unusually fast turnaround without explanation should also be questioned. Choosing an inadequate provider often costs more in rework and audit remediation than the initial savings."
+  }
+]

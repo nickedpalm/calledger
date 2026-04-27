@@ -1,0 +1,34 @@
+[
+  {
+    "slug": "simco-electronics-minneapolis",
+    "name": "SIMCO Electronics",
+    "city": "Minneapolis",
+    "state": "MN",
+    "address": "6537 Cecilia Circle, Minneapolis, MN 55439",
+    "lat": 44.9778,
+    "lng": -93.265,
+    "phone": "5823981000",
+    "website": "https://www.simco.com/locations/us_central/minneapolis_mn/",
+    "email": "info@simco.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Calibration lab providing high-quality calibration, repair, and software services for test and measurement equipment with free equipment pickup and delivery throughout Twin Cities metropolitan area",
+    "certifications": [],
+    "services": [
+      "calibration services",
+      "repair services",
+      "software services",
+      "equipment pickup and delivery"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:08",
+    "sentiment": null
+  }
+]

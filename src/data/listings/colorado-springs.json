@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "pikes-peak-test-labs-inc-colorado-springs",
+    "name": "Pikes Peak Test Labs, Inc.",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "address": "4750 Edison Ave., Colorado Springs, CO 80915",
+    "lat": 38.8339,
+    "lng": -104.8214,
+    "phone": "",
+    "website": "",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Instrument calibration services provider in Colorado Springs.",
+    "certifications": [],
+    "services": [
+      "instrument calibration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:54:40",
+    "sentiment": null
+  }
+]

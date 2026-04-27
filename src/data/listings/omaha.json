@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "bme-lab-science-omaha",
+    "name": "BME Lab & Science",
+    "city": "Omaha",
+    "state": "NE",
+    "address": "",
+    "lat": 41.2587459,
+    "lng": -95.9383758,
+    "phone": "0100857628",
+    "website": "https://bmelabandscience.com/lab-equipment-services-in-nebraska/",
+    "email": "bme@bmelabandscience.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Nebraska's preferred partner for lab equipment services including calibration, maintenance, and repair with 95% customer repeat rate.",
+    "certifications": [],
+    "services": [
+      "lab equipment calibration",
+      "maintenance",
+      "repair"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:56:24",
+    "sentiment": null
+  }
+]

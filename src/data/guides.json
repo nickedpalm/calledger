@@ -1,0 +1,44 @@
+[
+  {
+    "slug": "calibration-lab-rate-guide-2026",
+    "title": "Calibration Lab Rate Guide 2026",
+    "subtitle": "Compare ISO/IEC 17025 lab rates and turnaround times",
+    "description": "Compare calibration lab rates, turnaround times, and service areas across accredited providers. Budget confidently for your equipment maintenance program and source qualified labs without surprise costs or compliance gaps.",
+    "bullets": [
+      "Compare rates across ISO/IEC 17025 accredited providers",
+      "Typical industrial calibration costs: $85\u2013$450 per device",
+      "Express and standard turnaround times by provider",
+      "Service coverage areas to minimize shipping delays"
+    ],
+    "pdfUrl": "/guides/pdf/calibration-lab-rate-guide-2026.pdf",
+    "category": "Pricing"
+  },
+  {
+    "slug": "calibration-lab-vetting-guide",
+    "title": "Calibration Lab Vetting Guide",
+    "subtitle": "Verify accreditation, avoid costly mistakes, ensure measurement traceability",
+    "description": "Find out how to audit calibration labs for ISO/IEC 17025 accreditation, measurement uncertainty, and traceability. This guide walks manufacturers and QA teams through the vetting process to minimize downtime and compliance risk.",
+    "bullets": [
+      "Verify ISO/IEC 17025 accreditation status and scope of credentials",
+      "Evaluate measurement uncertainty to match your tolerance requirements",
+      "Confirm NIST or national standards traceability before commitment",
+      "Spot unaccredited operations that skip proper documentation and exceed standard turnaround times"
+    ],
+    "pdfUrl": "/guides/pdf/calibration-lab-vetting-guide.pdf",
+    "category": "Vetting"
+  },
+  {
+    "slug": "calibration-program-setup-checklist",
+    "title": "Calibration Program Setup Checklist",
+    "subtitle": "Start calibration compliance confidently with step-by-step implementation guidance",
+    "description": "Master the essential steps manufacturers use to establish measurement traceability and ISO/IEC 17025 compliance. This checklist walks QA teams through creating a calibration program that reduces compliance risk and ensures accurate measurements.",
+    "bullets": [
+      "Map equipment to accredited-vs.-internal calibration categories",
+      "Build traceability records that survive compliance audits",
+      "Set calibration intervals per ISO/IEC 17025 standards",
+      "Vet calibration providers: accreditation scope checklist"
+    ],
+    "pdfUrl": "/guides/pdf/calibration-program-setup-checklist.pdf",
+    "category": "How-To"
+  }
+]

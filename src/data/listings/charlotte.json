@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "garber-metrology-charlotte",
+    "name": "Garber Metrology",
+    "city": "Charlotte",
+    "state": "NC",
+    "address": "Not provided in search results",
+    "lat": 35.2272086,
+    "lng": -80.8430827,
+    "phone": "Not provided in search results",
+    "website": "https://www.garbermetrology.com/service-areas/nc/",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "ISO 9001 and ISO/IEC 17025 accredited calibration company offering on-site and in-laboratory services with five-business-day turnaround",
+    "certifications": [],
+    "services": [
+      "On-site calibration",
+      "In-laboratory calibration",
+      "Free local pickup and delivery"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:53:56",
+    "sentiment": null
+  }
+]

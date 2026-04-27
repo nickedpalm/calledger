@@ -1,0 +1,164 @@
+generated_at: '2026-04-26T20:40:09+00:00'
+refs:
+  cf.d1_db:
+    extra:
+      binding_name: LEADS_DB
+    id: 1e9c59e5-4066-4b23-a1d3-d60db4c336b1
+    kind: cf.d1_db
+    name: directory_calledger
+  cf.dns_records:
+    extra:
+      content: calledger.pages.dev
+      zone_id: 50e67a83a7f492ced3fd86c41c7e8d6e
+    id: eb09614da1df0fcdeb59d669d16a8313
+    kind: cf.dns_records
+    name: calledger.com
+  cf.email_routing:
+    extra:
+      enabled: true
+    id: 50e67a83a7f492ced3fd86c41c7e8d6e
+    kind: cf.email_routing
+    name: calledger.com
+  cf.pages_project:
+    extra:
+      subdomain: calledger.pages.dev
+    id: calledger
+    kind: cf.pages_project
+    name: calledger
+  cf.r2_bucket:
+    extra:
+      binding_name: PHOTOS
+    id: calledger-photos
+    kind: cf.r2_bucket
+    name: calledger-photos
+  cf.turnstile:
+    extra:
+      secret: ''
+    id: 0x4AAAAAADD2BDMDQxNKRgEY
+    kind: cf.turnstile
+    name: calledger
+  content.enrich:
+    extra:
+      exported: 87
+    id: /home/nick/directory-factory/factory/verticals/calledger/src/data/listings
+    kind: content.enrich
+    name: calledger
+  content.faqs:
+    extra:
+      count: 12
+    id: /home/nick/directory-factory/factory/verticals/calledger/src/data/faqs.json
+    kind: content.faqs
+    name: calledger
+  content.generate:
+    extra:
+      blog_posts: 18
+      cities: 54
+    id: /home/nick/directory-factory/factory/verticals/calledger/src/content
+    kind: content.generate
+    name: calledger
+  content.images:
+    extra:
+      articles: '23'
+      cities: '68'
+    id: /home/nick/directory-factory/factory/verticals/calledger/images.json
+    kind: content.images
+    name: calledger
+  content.interlink:
+    extra:
+      stamp_mtime: '1777233618.6837733'
+    id: /home/nick/directory-factory/factory/verticals/calledger/.interlink-stamp
+    kind: content.interlink
+    name: calledger
+  content.lead_magnets:
+    extra:
+      count: 3
+    id: /home/nick/directory-factory/factory/verticals/calledger/src/data/guides.json
+    kind: content.lead_magnets
+    name: calledger
+  content.scrape:
+    extra:
+      count: 87
+    id: /home/nick/directory-factory/factory/verticals/calledger/pipeline.db
+    kind: content.scrape
+    name: calledger
+  d1.migrations:
+    extra:
+      applied: 8
+    id: directory_calledger
+    kind: d1.migrations
+    name: calledger
+  ga4.property:
+    extra:
+      measurement_id: G-F4ED38T1F3
+    id: G-F4ED38T1F3
+    kind: ga4.property
+    name: calledger
+  github.repo:
+    extra: {}
+    id: nickedpalm/calledger
+    kind: github.repo
+    name: nickedpalm/calledger
+  gsc.verify:
+    extra:
+      api_verified: true
+      content: google-site-verification=SxjxRrhOvEV0flSpUYlkdF4GQScu6GtokiBuH0AyE_o
+    id: 26ced0aa5c862cc67775b3b6075de459
+    kind: gsc.verify
+    name: calledger.com
+  listmonk.api_user:
+    extra:
+      password: sHEzDbU5-rYgd7QtwyR-4JN1urdPe6ap
+    id: calledger-api
+    kind: listmonk.api_user
+    name: calledger-api
+  listmonk.list:
+    extra: {}
+    id: '61'
+    kind: listmonk.list
+    name: Calledger Newsletter
+  listmonk.templates:
+    extra:
+      guide_delivery: '58'
+      lead_notify: '57'
+      magic_link: '56'
+    id: 56,57,58
+    kind: listmonk.templates
+    name: calledger
+  local.colors:
+    extra:
+      primary: '#687b97'
+    id: /home/nick/directory-factory/factory/verticals/calledger/colors.json
+    kind: local.colors
+    name: calledger
+  local.logos:
+    extra:
+      copied: 11
+    id: /home/nick/directory-factory/factory/verticals/calledger/public
+    kind: local.logos
+    name: calledger
+  local.scaffold:
+    extra:
+      domain: calledger.com
+    id: /home/nick/directory-factory/factory/verticals/calledger/vertical.json
+    kind: local.scaffold
+    name: calledger
+  local.template_sync:
+    extra:
+      count: '20'
+      synced: src/components,src/pages,src/layouts,src/utils,src/lib,src/scripts,src/types,src/assets/styles,src/assets/fonts,_functions,migrations,src/config.ts,src/env.d.ts,src/types.d.ts,src/navigation.ts,astro.config.ts,tailwind.config.js,tsconfig.json,public/_headers,public/_redirects
+    id: /home/nick/directory-factory/factory/verticals/calledger
+    kind: local.template_sync
+    name: calledger
+  ses.domain_verify:
+    extra:
+      dkim_count: 3
+    id: calledger.com
+    kind: ses.domain_verify
+    name: calledger.com
+  stripe.sync:
+    extra:
+      city_pro_product_id: prod_UFN2k4UXUYBSVd
+      featured_product_id: prod_UFN29tyCOE6s6N
+    id: prod_UFN29tyCOE6s6N
+    kind: stripe.sync
+    name: calledger

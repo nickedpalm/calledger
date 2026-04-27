@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "cleveland-specialty-inspection-services-cleveland",
+    "name": "Cleveland Specialty Inspection Services",
+    "city": "Cleveland",
+    "state": "OH",
+    "address": "Not provided in search results",
+    "lat": 41.4996574,
+    "lng": -81.6936772,
+    "phone": "Not provided in search results",
+    "website": "http://www.clevelandspecialty.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Accredited metrology lab capable of inspecting parts and calibrating gages and measuring instruments",
+    "certifications": [],
+    "services": [
+      "Parts inspection",
+      "Gage calibration",
+      "Measuring instrument calibration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:53:25",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "slug": "precise-technical-solutions-pts-pittsburgh",
+    "name": "Precise Technical Solutions (PTS)",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "address": "",
+    "lat": 40.4406968,
+    "lng": -80.0025666,
+    "phone": "1777219509",
+    "website": "https://precisecalibrations.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Full-service accredited calibration company performing work to FDA, cGMP, cGLP, USP, and ISO standards with fast turnaround times",
+    "certifications": [],
+    "services": [
+      "calibration services",
+      "emergency repairs",
+      "maintenance"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:53:14",
+    "sentiment": null
+  }
+]

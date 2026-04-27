@@ -1,0 +1,188 @@
+[
+  {
+    "slug": "ccms-scientific-new-york",
+    "name": "CCMS Scientific",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "855-404-2267",
+    "website": "https://ccmsscientific.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Lab equipment calibration and certification for ULT freezers, biological safety cabinets, and more with 30+ years experience.",
+    "certifications": [],
+    "services": [
+      "ULT freezers",
+      "biological safety cabinets",
+      "lab equipment"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:52:29",
+    "sentiment": null
+  },
+  {
+    "slug": "constellation-powerlabs-new-york",
+    "name": "Constellation PowerLabs",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "3594466526",
+    "website": "https://constellationpowerlabs.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "ISO 17025 and A2LA-accredited testing and calibration lab for regulated industries requiring precision and compliance.",
+    "certifications": [],
+    "services": [
+      "testing",
+      "calibration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:52:29",
+    "sentiment": null
+  },
+  {
+    "slug": "cryostar-industries-new-york",
+    "name": "Cryostar Industries",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "800-564-5513",
+    "website": "https://cryostarindustries.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "NIST traceable lab equipment calibration services for regulated industries across NY, NJ, CT with on-site and in-lab options.",
+    "certifications": [],
+    "services": [
+      "pipettes",
+      "scales",
+      "ovens",
+      "incubators",
+      "refrigerators"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:52:29",
+    "sentiment": null
+  },
+  {
+    "slug": "eml-calibration-electronic-metrology-laboratory-llc-new-york",
+    "name": "EML Calibration (Electronic Metrology Laboratory, LLC)",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "",
+    "website": "https://www.emlcalibration.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "ISO/IEC 17025 accredited NIST-traceable calibration for electronic, mechanical, dimensional instruments, on-site and in-lab.",
+    "certifications": [],
+    "services": [
+      "electronic",
+      "mechanical",
+      "dimensional"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:52:29",
+    "sentiment": null
+  },
+  {
+    "slug": "garber-metrology-new-york",
+    "name": "Garber Metrology",
+    "city": "New York",
+    "state": "NY",
+    "address": "",
+    "lat": 40.7127281,
+    "lng": -74.0060152,
+    "phone": "1682340414",
+    "website": "https://www.garbermetrology.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0,
+    "review_count": 0,
+    "description": "Premium calibration services since 1975 for industries like pharmaceutical and electronics, with lab and mobile options.",
+    "certifications": [],
+    "services": [
+      "weighing equipment",
+      "dimensional",
+      "electronics"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:52:29",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.96,
+      "keywords": [
+        "professional",
+        "excellent service",
+        "helpful",
+        "friendly",
+        "calibration expertise",
+        "long-term reliability"
+      ],
+      "highlights": [
+        {
+          "text": "Everyone goes above and beyond in helping me",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Our calibration is in the best shape it has been in forever",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The staff is professional and courteous",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Garber has always been a valuable asset to our company",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Garber Metrology receives consistently strong praise across multiple industries for professional staff, excellent calibration service, and going above and beyond for both new and long-term clients."
+    }
+  }
+]

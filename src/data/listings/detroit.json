@@ -1,0 +1,170 @@
+[
+  {
+    "slug": "cech-detroit",
+    "name": "CECH",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "6973732903",
+    "website": "https://www.cech.com",
+    "email": "accounting@cech.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Precision measurement services in Michigan including high-accuracy calibration, verification for lab instruments and industrial systems.[10]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:30",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.98,
+      "keywords": [
+        "professional",
+        "friendly",
+        "efficient",
+        "thorough",
+        "trustworthy",
+        "great service"
+      ],
+      "highlights": [
+        {
+          "text": "Both techs were extremely friendly to work with and gave GREAT service. First-rate class act.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "I truly appreciate you guys jumping through hoops to get them here.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "Can be trusted to be complete without any hiccups.",
+          "sentiment": "positive"
+        },
+        {
+          "text": "They were efficient, great at trouble-shooting and answered any questions presented.",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "CECH Corp receives consistently exceptional reviews across all testimonials, with clients praising their professional, friendly technicians who deliver thorough, efficient service with reliability and strong communication."
+    }
+  },
+  {
+    "slug": "controls-service-inc-detroit",
+    "name": "Controls Service, Inc.",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "313-565-4200",
+    "website": "https://www.controlsservice.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "ISO/IEC 17025 accredited calibration and repair for wide array of controls instrumentation through A2LA.[7]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:30",
+    "sentiment": null
+  },
+  {
+    "slug": "fox-valley-metrology-detroit",
+    "name": "Fox Valley Metrology",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "1070496503",
+    "website": "https://www.foxvalleymetrology.com",
+    "email": "Support@FoxValleyMetrology.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "ISO/IEC 17025 accredited calibration lab providing precision measuring instrument calibration services to Michigan and surrounding areas, including dimensional, electrical, and mechanical equipment.[1][5]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:30",
+    "sentiment": {
+      "label": "positive",
+      "score": 0.88,
+      "keywords": [
+        "customer service",
+        "calibration",
+        "problem-solving",
+        "reliable",
+        "trusted partner",
+        "quality"
+      ],
+      "highlights": [
+        {
+          "text": "FVM is our go to shop for mostly all of our measuring and testing equipment!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "The customer service has been very good. Thank you for all that you do!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "FVM worked with me through all the ups and downs, and made the transition much easier!",
+          "sentiment": "positive"
+        },
+        {
+          "text": "FVM has done a great job handling items that stretch your team above the norm",
+          "sentiment": "positive"
+        }
+      ],
+      "summary": "Fox Valley Metrology receives consistently excellent reviews for exceptional customer service, reliable calibration expertise, and willingness to solve difficult technical challenges for industrial clients."
+    }
+  },
+  {
+    "slug": "incal-tech-detroit",
+    "name": "Incal Tech",
+    "city": "Detroit",
+    "state": "MI",
+    "address": "",
+    "lat": 42.3315509,
+    "lng": -83.0466403,
+    "phone": "",
+    "website": "https://incaltech.com",
+    "email": "",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "ISO 17025 accredited hand tool calibration services for micrometers, calipers; fast turnarounds and onsite service in Michigan.[9]",
+    "certifications": [],
+    "services": [],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:30",
+    "sentiment": null
+  }
+]

@@ -1,0 +1,119 @@
+---
+title: "How to Prepare for a Calibration Laboratory Session (Manufacturers And Quality Assurance Team's Checklist)"
+description: "Skip calibration laboratory prep and risk invalidating past measurements. This ISO 9001 checklist covers traceability, certificates, and audit evidence."
+pubDate: 2026-04-26
+author: "Nick Palmer"
+tags: ["calibration laboratory", "preparation", "checklist"]
+hub: "The Complete Guide to Calibration Laboratories"
+---
+
+The first time I sent instruments to a calibration lab without a preparation checklist, our QA audit nearly fell apart. Three tools came back with certificates we couldn't use — wrong measurement units on one, no NIST traceability statement on another, and a third that turned out to be out of tolerance. We had shipped product in the interim. That investigation cost us two weeks and more uncomfortable conversations than I care to remember.
+
+Nobody hands you a preparation guide. The lab assumes you know what you're doing. Your ISO 9001 auditor assumes the same. The gap between those two assumptions is where audits go sideways.
+
+> **The Short Version:** Successful calibration lab sessions don't start at the lab — they start 2–4 weeks before, with a clean equipment inventory, verified traceability requirements, and documented schedules. Miss the prep, and you're not just delaying certificates; you're potentially invalidating prior product measurements.
+
+## Key Takeaways
+
+- ISO 9001:2015 Clause 7.1.5 and ISO 10012:2003 mandate specific preparation requirements — this isn't optional paperwork, it's audit evidence
+- Out-of-tolerance findings require retroactive impact investigations on every product measured with that tool since the last valid calibration
+- NIST-traceable certificates from ISO/IEC 17025:2017-accredited labs must include specific fields — knowing what to check before you accept them saves weeks
+- Annual internal calibration program audits across 8 inspection points are the standard; most QA teams only do them when an auditor asks
+
+---
+
+## The Checklist Nobody Gave You
+
+Here's what manufacturers and QA teams should have locked down before instruments leave the building — or before you invite the lab onsite.
+
+### 1. Build Your Complete Equipment Inventory
+
+Pull every instrument into a master list. Not the list you think is complete — the *actual* list, including the caliper in the machinist's top drawer and the thermometer taped to the clean room door.
+
+Each entry needs eight fields: tool name, serial number, physical location, last calibration date, last calibration certificate number, next due date, calibration frequency, and responsible person. ISO 9001:2015 Clause 7.1.5 requires this tracking by name. Your auditor will look at it.
+
+> **Pro Tip:** Cross-reference your equipment list against your production process map. Any device that influences product quality measurements belongs on the list — if it touches a measurement that affects conformance, it needs a calibration history.
+
+### 2. Determine and Document Required Frequency
+
+Calibration frequency isn't "annually" by default. It's based on measurement history (drift trends from past as-found data), usage intensity, manufacturer recommendations, and the applicable regulatory standard.
+
+GMP and FDA-regulated industries have stricter intervals than general manufacturing. AS9100 aerospace adds another layer. Check the manufacturer's documented recommendation, then adjust based on your own historical data. If a tool consistently comes back in-tolerance for three years, you may be able to extend the interval. If it drifts, shorten it.
+
+Document the decision rationale. Auditors don't just want to see the schedule — they want to see you thought about it.
+
+### 3. Clean Equipment and Document Current Condition
+
+Send dirty instruments and you risk the lab refusing to calibrate, charging a cleaning fee, or — worse — getting inaccurate as-found data because contamination affected the measurement.
+
+Record the pre-shipment condition: visible damage, wear on contact surfaces, any recent repairs. This becomes your "as-found" baseline documentation if an out-of-tolerance condition triggers a product impact investigation.
+
+> **Reality Check:** If a tool comes back out of tolerance, ISO 9001 requires you to investigate every product measurement taken since the last valid calibration. Clean documentation of when damage occurred — or didn't — is the difference between a targeted investigation and an open-ended nightmare.
+
+### 4. Verify You're Using an Accredited Lab
+
+Not all calibration labs are equal, and "we've used them for years" is not a quality system control.
+
+The lab must hold ISO/IEC 17025:2017 accreditation for the specific parameters and ranges you need calibrated. Accreditation bodies like A2LA and NVLAP publish scope certificates — download the current one and confirm your instruments are within the lab's authorized scope before scheduling.
+
+NIST traceability is non-negotiable. Every certificate should reference the traceability chain explicitly.
+
+| What to Verify | Where to Find It | Red Flag |
+|---|---|---|
+| ISO/IEC 17025:2017 accreditation | A2LA or NVLAP online directory | Expired or missing scope cert |
+| Parameter/range coverage | Lab's scope certificate | Your instrument not listed |
+| NIST traceability statement | Calibration certificate | Vague "traceable to national standards" |
+| Measurement units per NIST Handbook | Certificate header/footer | Non-SI units without explanation |
+| QMS review signature | Certificate | Single-person issuance with no review |
+
+### 5. Prepare Your Certificate Review Checklist
+
+When certificates come back, most QA teams glance at the pass/fail line and file them. That's a compliance gap.
+
+ISO/IEC 17025:2017 specifies what a valid calibration certificate must contain: measurement units and symbols conforming to NIST Handbook conventions, uncertainty statements, as-found and as-left data, environmental conditions during calibration, traceability references, and a technical review signature separate from the performing technician.
+
+Pull Appendix B of your lab's certificate review checklist — or build one — and verify every field before accepting the certificate into your system.
+
+> **Pro Tip:** Set up a simple certificate review checklist as a one-page form. It takes four minutes per certificate and closes the audit finding before it happens.
+
+### 6. Segregate Any Out-of-Calibration or Suspect Items
+
+Before the session, physically separate any equipment flagged as overdue, damaged, or status-unknown. Label it clearly — "DO NOT USE — CALIBRATION PENDING" — and log it in your system.
+
+ISO 9001:2015 Clause 7.1.5 is explicit: out-of-calibration equipment must be segregated from service. Finding in-use instruments without current certificates is a nonconformance. It's also the fastest way to trigger a full product impact investigation.
+
+### 7. Confirm Environmental and Technical Requirements
+
+Some calibrations require specific ambient conditions — temperature, humidity, vibration isolation. If the lab is coming to you, verify your facility can meet their stated requirements before they arrive.
+
+If you're shipping to the lab, understand whether instruments need to stabilize (thermal equilibration) before calibration begins. Ask about lead times for your instrument types — dimensional tools and electrical standards often have different queue depths.
+
+### 8. Define Responsibilities and Signatories in Writing
+
+Ambiguity about who owns calibration program management is how programs drift. Your system should document who maintains the master schedule, who reviews incoming certificates, who authorizes equipment release, and who investigates out-of-tolerance findings.
+
+ISO 10012:2003 recommends annual audits of the calibration management program across eight inspection points. If your metrology manager or QA lead can't point to documented responsibilities, that's the first thing to fix.
+
+---
+
+## Pre-Session Timeline
+
+**4 weeks out:** Complete inventory audit, identify overdue items, request calibration lab scope certificate
+
+**2 weeks out:** Schedule session, ship equipment or confirm onsite date, verify environmental requirements
+
+**1 week out:** Clean and document all instruments, prepare certificate review checklist
+
+**Day of:** Confirm receipt/technician arrival, verify as-found condition documentation
+
+**After session:** Review all certificates against checklist before filing, update master schedule, investigate any out-of-tolerance findings immediately
+
+---
+
+## Practical Bottom Line
+
+Calibration preparation is quality system infrastructure. Done right, it's invisible — auditors see clean records, certified equipment, and documented decisions. Done wrong, it surfaces at the worst possible moment: an audit, a customer complaint, or an out-of-tolerance finding on an instrument that's been in service for 18 months without a valid certificate.
+
+Start with the master equipment list. That's the foundation everything else runs on. From there, the rest of the checklist is just filling in the fields.
+
+For a deeper look at how accredited labs work and what they're actually measuring, see the [Complete Guide to Calibration Laboratories](/blog/complete-guide-calibration-laboratorys/). If you're evaluating labs for the first time, the selection criteria in that guide will tell you what the scope certificate review above is actually screening for.

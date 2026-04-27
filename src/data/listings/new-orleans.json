@@ -1,0 +1,31 @@
+[
+  {
+    "slug": "micro-precision-calibration-new-orleans",
+    "name": "Micro Precision Calibration",
+    "city": "New Orleans",
+    "state": "LA",
+    "address": "",
+    "lat": 29.9561422,
+    "lng": -90.0733934,
+    "phone": "530-268-1860",
+    "website": "https://microprecision.com",
+    "email": "gv-contact@microprecision.com",
+    "contact_form_url": "",
+    "contact_method": "",
+    "rating": 0.0,
+    "review_count": 0,
+    "description": "Provides high quality instrument calibration services to Baton Rouge LA for over 50 years.",
+    "certifications": [],
+    "services": [
+      "instrument calibration"
+    ],
+    "years_experience": null,
+    "coverage_area": "",
+    "equipment": [],
+    "claimed": false,
+    "featured": false,
+    "source": "perplexity",
+    "scraped_at": "2026-04-26 15:55:52",
+    "sentiment": null
+  }
+]
